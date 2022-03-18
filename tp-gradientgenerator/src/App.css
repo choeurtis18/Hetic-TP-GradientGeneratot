@@ -1,0 +1,9 @@
+.App {
+  max-width: 1024px;
+  margin: 50px auto;
+}
+
+.container-title {
+  text-align: center;
+  font-size: 40px;
+}
